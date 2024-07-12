@@ -6,7 +6,6 @@ toolchain go1.22.2
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
-	github.com/SinTod/goctl v1.6.7
 	github.com/emicklei/proto v1.13.2
 	github.com/fatih/structtag v1.2.0
 	github.com/go-kratos/kratos/v2 v2.7.3
