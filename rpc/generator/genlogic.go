@@ -6,12 +6,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	conf "github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/rpc/parser"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/format"
-	"github.com/SinTod/goctl/util/pathx"
-	"github.com/SinTod/goctl/util/stringx"
+	conf "github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/rpc/parser"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/format"
+	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/SinTod/goctl/v2/util/stringx"
 	"github.com/zeromicro/go-zero/core/collection"
 )
 

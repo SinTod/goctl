@@ -5,10 +5,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SinTod/goctl/api/gogen"
-	"github.com/SinTod/goctl/pkg/golang"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/api/gogen"
+	"github.com/SinTod/goctl/v2/pkg/golang"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 

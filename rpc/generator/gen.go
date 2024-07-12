@@ -3,10 +3,10 @@ package generator
 import (
 	"path/filepath"
 
-	"github.com/SinTod/goctl/rpc/parser"
-	"github.com/SinTod/goctl/util/console"
-	"github.com/SinTod/goctl/util/ctx"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/rpc/parser"
+	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/SinTod/goctl/v2/util/ctx"
+	"github.com/SinTod/goctl/v2/util/pathx"
 )
 
 type ZRpcContext struct {

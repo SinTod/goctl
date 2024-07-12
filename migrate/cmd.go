@@ -1,6 +1,6 @@
 package migrate
 
-import "github.com/SinTod/goctl/internal/cobrax"
+import "github.com/SinTod/goctl/v2/internal/cobrax"
 
 var (
 	boolVarVerbose   bool

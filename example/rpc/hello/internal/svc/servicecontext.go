@@ -1,6 +1,6 @@
 package svc
 
-import "github.com/SinTod/goctl/example/rpc/hello/internal/config"
+import "github.com/SinTod/goctl/v2/example/rpc/hello/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

@@ -6,11 +6,11 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SinTod/goctl/model/sql/converter"
-	"github.com/SinTod/goctl/model/sql/model"
-	"github.com/SinTod/goctl/model/sql/util"
-	"github.com/SinTod/goctl/util/console"
-	"github.com/SinTod/goctl/util/stringx"
+	"github.com/SinTod/goctl/v2/model/sql/converter"
+	"github.com/SinTod/goctl/v2/model/sql/model"
+	"github.com/SinTod/goctl/v2/model/sql/util"
+	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/SinTod/goctl/v2/util/stringx"
 	"github.com/zeromicro/ddl-parser/parser"
 	"github.com/zeromicro/go-zero/core/collection"
 )

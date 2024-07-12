@@ -1,7 +1,7 @@
 package bug
 
 import (
-	"github.com/SinTod/goctl/internal/cobrax"
+	"github.com/SinTod/goctl/v2/internal/cobrax"
 	"github.com/spf13/cobra"
 )
 

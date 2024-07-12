@@ -6,9 +6,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/SinTod/goctl/api/spec"
-	apiutil "github.com/SinTod/goctl/api/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/api/spec"
+	apiutil "github.com/SinTod/goctl/v2/api/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 )
 
 //go:embed components.tpl

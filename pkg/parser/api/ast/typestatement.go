@@ -1,6 +1,6 @@
 package ast
 
-import "github.com/SinTod/goctl/pkg/parser/api/token"
+import "github.com/SinTod/goctl/v2/pkg/parser/api/token"
 
 /*******************TypeStmt Begin********************/
 

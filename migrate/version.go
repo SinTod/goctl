@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SinTod/goctl/util/console"
+	"github.com/SinTod/goctl/v2/util/console"
 )
 
 var client = http.Client{

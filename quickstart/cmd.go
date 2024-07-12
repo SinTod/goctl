@@ -1,6 +1,6 @@
 package quickstart
 
-import "github.com/SinTod/goctl/internal/cobrax"
+import "github.com/SinTod/goctl/v2/internal/cobrax"
 
 const (
 	serviceTypeMono  = "mono"

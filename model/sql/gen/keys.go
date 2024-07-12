@@ -5,9 +5,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/SinTod/goctl/model/sql/parser"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/stringx"
+	"github.com/SinTod/goctl/v2/model/sql/parser"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/stringx"
 )
 
 // Key describes cache key

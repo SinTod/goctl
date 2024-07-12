@@ -1,9 +1,9 @@
 package gen
 
 import (
-	"github.com/SinTod/goctl/model/sql/template"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/model/sql/template"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 )
 
 func genTableName(table Table) (string, error) {

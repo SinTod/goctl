@@ -5,8 +5,8 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/SinTod/goctl/util/env"
-	"github.com/SinTod/goctl/vars"
+	"github.com/SinTod/goctl/v2/util/env"
+	"github.com/SinTod/goctl/v2/vars"
 )
 
 const goproxy = "GOPROXY=https://goproxy.cn,direct"

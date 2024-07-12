@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/util"
+	"github.com/SinTod/goctl/v2/util"
 )
 
 //go:embed default_en.json

@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/SinTod/goctl/util"
+	"github.com/SinTod/goctl/v2/util"
 )
 
 // Customized defines a template for customized in model

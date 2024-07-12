@@ -6,7 +6,7 @@ import (
 	"os/exec"
 	"runtime"
 
-	"github.com/SinTod/goctl/internal/version"
+	"github.com/SinTod/goctl/v2/internal/version"
 	"github.com/spf13/cobra"
 )
 

@@ -11,11 +11,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SinTod/goctl/api/parser"
-	"github.com/SinTod/goctl/api/util"
-	"github.com/SinTod/goctl/pkg/env"
-	apiF "github.com/SinTod/goctl/pkg/parser/api/format"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/api/parser"
+	"github.com/SinTod/goctl/v2/api/util"
+	"github.com/SinTod/goctl/v2/pkg/env"
+	apiF "github.com/SinTod/goctl/v2/pkg/parser/api/format"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/errorx"
 )

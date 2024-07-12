@@ -6,8 +6,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/SinTod/goctl/update/config"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/update/config"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/hash"
 	"github.com/zeromicro/go-zero/core/logx"

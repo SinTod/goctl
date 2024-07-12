@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SinTod/goctl/rpc/generator"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/rpc/generator"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/spf13/cobra"
 )
 

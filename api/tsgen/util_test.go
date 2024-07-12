@@ -3,7 +3,7 @@ package tsgen
 import (
 	"testing"
 
-	"github.com/SinTod/goctl/api/spec"
+	"github.com/SinTod/goctl/v2/api/spec"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -9,9 +9,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/env"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/env"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 )

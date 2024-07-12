@@ -13,10 +13,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/api/parser"
-	"github.com/SinTod/goctl/pkg/env"
-	"github.com/SinTod/goctl/rpc/execx"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/api/parser"
+	"github.com/SinTod/goctl/v2/pkg/env"
+	"github.com/SinTod/goctl/v2/rpc/execx"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/stretchr/testify/assert"
 )
 

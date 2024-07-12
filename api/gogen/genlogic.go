@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/SinTod/goctl/api/parser/g4/gen/api"
-	"github.com/SinTod/goctl/api/spec"
-	"github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/util/format"
-	"github.com/SinTod/goctl/util/pathx"
-	"github.com/SinTod/goctl/vars"
+	"github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+	"github.com/SinTod/goctl/v2/api/spec"
+	"github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/util/format"
+	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/SinTod/goctl/v2/vars"
 )
 
 //go:embed logic.tpl

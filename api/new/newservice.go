@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/SinTod/goctl/api/gogen"
-	conf "github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/api/gogen"
+	conf "github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/spf13/cobra"
 )
 

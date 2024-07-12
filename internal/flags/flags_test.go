@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/SinTod/goctl/test"
+	"github.com/SinTod/goctl/v2/test"
 )
 
 func TestFlags_Get(t *testing.T) {

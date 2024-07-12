@@ -1,19 +1,19 @@
 package api
 
 import (
-	"github.com/SinTod/goctl/api/apigen"
-	"github.com/SinTod/goctl/api/dartgen"
-	"github.com/SinTod/goctl/api/docgen"
-	"github.com/SinTod/goctl/api/format"
-	"github.com/SinTod/goctl/api/gogen"
-	"github.com/SinTod/goctl/api/javagen"
-	"github.com/SinTod/goctl/api/ktgen"
-	"github.com/SinTod/goctl/api/new"
-	"github.com/SinTod/goctl/api/tsgen"
-	"github.com/SinTod/goctl/api/validate"
-	"github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/internal/cobrax"
-	"github.com/SinTod/goctl/plugin"
+	"github.com/SinTod/goctl/v2/api/apigen"
+	"github.com/SinTod/goctl/v2/api/dartgen"
+	"github.com/SinTod/goctl/v2/api/docgen"
+	"github.com/SinTod/goctl/v2/api/format"
+	"github.com/SinTod/goctl/v2/api/gogen"
+	"github.com/SinTod/goctl/v2/api/javagen"
+	"github.com/SinTod/goctl/v2/api/ktgen"
+	"github.com/SinTod/goctl/v2/api/new"
+	"github.com/SinTod/goctl/v2/api/tsgen"
+	"github.com/SinTod/goctl/v2/api/validate"
+	"github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/internal/cobrax"
+	"github.com/SinTod/goctl/v2/plugin"
 	"github.com/spf13/cobra"
 )
 

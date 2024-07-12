@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"unicode"
 
-	"github.com/SinTod/goctl/api/parser/g4/ast"
-	"github.com/SinTod/goctl/api/parser/g4/gen/api"
-	"github.com/SinTod/goctl/api/spec"
-	"github.com/SinTod/goctl/pkg/env"
-	apiParser "github.com/SinTod/goctl/pkg/parser/api/parser"
+	"github.com/SinTod/goctl/v2/api/parser/g4/ast"
+	"github.com/SinTod/goctl/v2/api/parser/g4/gen/api"
+	"github.com/SinTod/goctl/v2/api/spec"
+	"github.com/SinTod/goctl/v2/pkg/env"
+	apiParser "github.com/SinTod/goctl/v2/pkg/parser/api/parser"
 )
 
 type parser struct {

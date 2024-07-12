@@ -8,11 +8,11 @@ import (
 	"path"
 	"strings"
 
-	"github.com/SinTod/goctl/api/spec"
-	apiutil "github.com/SinTod/goctl/api/util"
-	"github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/format"
+	"github.com/SinTod/goctl/v2/api/spec"
+	apiutil "github.com/SinTod/goctl/v2/api/util"
+	"github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/format"
 )
 
 const typesFile = "types"

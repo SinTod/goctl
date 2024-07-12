@@ -4,12 +4,12 @@ import (
 	"errors"
 	"path/filepath"
 
-	"github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/model/mongo/template"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/format"
-	"github.com/SinTod/goctl/util/pathx"
-	"github.com/SinTod/goctl/util/stringx"
+	"github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/model/mongo/template"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/format"
+	"github.com/SinTod/goctl/v2/util/pathx"
+	"github.com/SinTod/goctl/v2/util/stringx"
 )
 
 // Context defines the model generation data what they needs

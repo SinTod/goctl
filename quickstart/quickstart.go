@@ -5,9 +5,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/SinTod/goctl/util/console"
-	"github.com/SinTod/goctl/util/ctx"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/util/console"
+	"github.com/SinTod/goctl/v2/util/ctx"
+	"github.com/SinTod/goctl/v2/util/pathx"
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
 )

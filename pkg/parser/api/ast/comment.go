@@ -3,8 +3,8 @@ package ast
 import (
 	"strings"
 
-	"github.com/SinTod/goctl/pkg/parser/api/token"
-	"github.com/SinTod/goctl/util"
+	"github.com/SinTod/goctl/v2/pkg/parser/api/token"
+	"github.com/SinTod/goctl/v2/util"
 )
 
 // CommentGroup represents a list of comments.

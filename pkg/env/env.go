@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/SinTod/goctl/internal/version"
-	sortedmap "github.com/SinTod/goctl/pkg/collection"
-	"github.com/SinTod/goctl/pkg/protoc"
-	"github.com/SinTod/goctl/pkg/protocgengo"
-	"github.com/SinTod/goctl/pkg/protocgengogrpc"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/internal/version"
+	sortedmap "github.com/SinTod/goctl/v2/pkg/collection"
+	"github.com/SinTod/goctl/v2/pkg/protoc"
+	"github.com/SinTod/goctl/v2/pkg/protocgengo"
+	"github.com/SinTod/goctl/v2/pkg/protocgengogrpc"
+	"github.com/SinTod/goctl/v2/util/pathx"
 )
 
 var goctlEnv *sortedmap.SortedMap

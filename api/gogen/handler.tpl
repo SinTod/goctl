@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/zeromicro/go-zero/rest/httpx"
-	"github.com/SinTod/goctl/pkg/response"
+	"github.com/SinTod/goctl/v2/pkg/response"
 	{{.ImportPackages}}
 )
 

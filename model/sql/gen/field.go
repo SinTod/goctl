@@ -3,10 +3,10 @@ package gen
 import (
 	"strings"
 
-	"github.com/SinTod/goctl/model/sql/parser"
-	"github.com/SinTod/goctl/model/sql/template"
-	"github.com/SinTod/goctl/util"
-	"github.com/SinTod/goctl/util/pathx"
+	"github.com/SinTod/goctl/v2/model/sql/parser"
+	"github.com/SinTod/goctl/v2/model/sql/template"
+	"github.com/SinTod/goctl/v2/util"
+	"github.com/SinTod/goctl/v2/util/pathx"
 )
 
 func genFields(table Table, fields []*parser.Field) (string, error) {

@@ -4,9 +4,9 @@ import (
 	_ "embed"
 	"strings"
 
-	"github.com/SinTod/goctl/api/spec"
-	"github.com/SinTod/goctl/config"
-	"github.com/SinTod/goctl/util/format"
+	"github.com/SinTod/goctl/v2/api/spec"
+	"github.com/SinTod/goctl/v2/config"
+	"github.com/SinTod/goctl/v2/util/format"
 )
 
 //go:embed middleware.tpl

@@ -3,8 +3,8 @@ package parser
 import (
 	"fmt"
 
-	"github.com/SinTod/goctl/pkg/parser/api/ast"
-	"github.com/SinTod/goctl/pkg/parser/api/token"
+	"github.com/SinTod/goctl/v2/pkg/parser/api/ast"
+	"github.com/SinTod/goctl/v2/pkg/parser/api/token"
 )
 
 type filterBuilder struct {

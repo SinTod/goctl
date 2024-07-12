@@ -3,7 +3,7 @@ package ktgen
 import (
 	"errors"
 
-	"github.com/SinTod/goctl/api/parser"
+	"github.com/SinTod/goctl/v2/api/parser"
 	"github.com/spf13/cobra"
 )
 
