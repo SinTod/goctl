@@ -46,7 +46,7 @@ func genLogicByRoute(dir, rootPkg string, cfg *config.Config, group spec.Group, 
 		responseString = "(resp " + resp + ", err *errorx.Error)"
 		returnString = "return"
 	} else {
-		responseString = "error"
+		responseString = "*errorx.Error"
 		returnString = "return nil"
 	}
 	if len(route.RequestTypeName()) > 0 {
